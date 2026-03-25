@@ -1,0 +1,8 @@
+# =========================
+# 3. Python & Virtual Environments
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+my_fitness_env/ 
+.env
